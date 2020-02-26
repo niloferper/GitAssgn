@@ -1,5 +1,4 @@
  some entry
 lets add some text here.
 i want to add some more text here.
-may be one more line.
-some changes to file one
+may be one more line
